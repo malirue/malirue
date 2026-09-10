@@ -27,13 +27,10 @@
 > 🚀 Готова к переезду и задачам, где важно сочетать качество кода, предсказуемость работы и вклад в командные процессы.
 
 ---
-
 ## 🛠 Технологии и инструменты
 
-<p>&nbsp;</p>
-
 <p align="center">
-  <strong>Языки и фреймворки</strong><br>
+  <strong>Языки и фреймворки</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </picture>
@@ -46,7 +43,7 @@
 </p>
 
 <p align="center">
-  <strong>Сборка и разработка</strong><br>
+  <strong>Сборка и разработка</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   </picture>
@@ -56,14 +53,14 @@
 </p>
 
 <p align="center">
-  <strong>Документация компонентов</strong><br>
+  <strong>Документация компонентов</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
   </picture>
 </p>
 
 <p align="center">
-  <strong>Тестирование</strong><br>
+  <strong>Тестирование</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
   </picture>
@@ -76,7 +73,7 @@
 </p>
 
 <p align="center">
-  <strong>Работа с кодом и качеством</strong><br>
+  <strong>Работа с кодом и качеством</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
   </picture>
@@ -89,7 +86,7 @@
 </p>
 
 <p align="center">
-  <strong>Стилизация</strong><br>
+  <strong>Стилизация</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
   </picture>
@@ -102,7 +99,7 @@
 </p>
 
 <p align="center">
-  <strong>Прочее</strong><br>
+  <strong>Прочее</strong><br><br>
   <picture>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   </picture>
@@ -113,7 +110,6 @@
     <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
   </picture>
 </p>
-
 ---
 
 ## 🔍 Статус занятости
