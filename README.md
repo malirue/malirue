@@ -30,7 +30,7 @@
 
 ## 🛠 Технологии и инструменты
 
-<br>
+<div style="height: 12px;"></div>
 
 <p align="center">
   <strong>Языки и фреймворки</strong><br>
@@ -45,74 +45,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <strong>Сборка и разработка</strong><br>
-  <picture>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Документация компонентов</strong><br>
-  <picture>
-    <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook">
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Тестирование</strong><br>
-  <picture>
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Работа с кодом и качеством</strong><br>
-  <picture>
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white" alt="Husky">
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Стилизация</strong><br>
-  <picture>
-    <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white" alt="CSS Modules">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  </picture>
-</p>
-
-<p align="center">
-  <strong>Прочее</strong><br>
-  <picture>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
-  </picture>
-  <picture>
-    <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
-  </picture>
-</p>
 ---
 
 ## 🔍 Статус занятости
