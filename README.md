@@ -80,5 +80,5 @@
 ## 🔍 Статус занятости
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Открыта%20для%20предложений-2ea44f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Открыта%20для%20предложений-2ea44f?style=for-the-badge" alt="Открыта для предложений">
 </p>
