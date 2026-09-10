@@ -30,6 +30,8 @@
 
 ## 🛠 Технологии и инструменты
 
+<br>
+
 <p align="center">
   <strong>Языки и фреймворки</strong><br>
   <picture>
